@@ -1,0 +1,13 @@
+C:\Users\maksi\Downloads\inno-javers-audit\inno-inno-requirements\src\main\java\chnu\edu\inno\config\AuditionConfiguration.java
+C:\Users\maksi\Downloads\inno-javers-audit\inno-inno-requirements\src\main\java\chnu\edu\inno\config\AuditorAwareImpl.java
+C:\Users\maksi\Downloads\inno-javers-audit\inno-inno-requirements\src\main\java\chnu\edu\inno\config\JaversConfiguration.java
+C:\Users\maksi\Downloads\inno-javers-audit\inno-inno-requirements\src\main\java\chnu\edu\inno\controller\AuditController.java
+C:\Users\maksi\Downloads\inno-javers-audit\inno-inno-requirements\src\main\java\chnu\edu\inno\controller\ItemController.java
+C:\Users\maksi\Downloads\inno-javers-audit\inno-inno-requirements\src\main\java\chnu\edu\inno\InnoApplication.java
+C:\Users\maksi\Downloads\inno-javers-audit\inno-inno-requirements\src\main\java\chnu\edu\inno\model\AuditMetadata.java
+C:\Users\maksi\Downloads\inno-javers-audit\inno-inno-requirements\src\main\java\chnu\edu\inno\model\dto\response\ApiResponse.java
+C:\Users\maksi\Downloads\inno-javers-audit\inno-inno-requirements\src\main\java\chnu\edu\inno\model\dto\response\BaseMetaData.java
+C:\Users\maksi\Downloads\inno-javers-audit\inno-inno-requirements\src\main\java\chnu\edu\inno\model\dto\response\PaginationMetaData.java
+C:\Users\maksi\Downloads\inno-javers-audit\inno-inno-requirements\src\main\java\chnu\edu\inno\model\Item.java
+C:\Users\maksi\Downloads\inno-javers-audit\inno-inno-requirements\src\main\java\chnu\edu\inno\repository\ItemRepository.java
+C:\Users\maksi\Downloads\inno-javers-audit\inno-inno-requirements\src\main\java\chnu\edu\inno\service\ItemService.java
